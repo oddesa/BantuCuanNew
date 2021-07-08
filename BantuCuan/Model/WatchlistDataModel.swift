@@ -7,9 +7,9 @@
 //
 
 import UIKit
-class WatchlistDataModel : Encodable, Decodable {
-    var name :String = ""
-    var price : Double = 0.0
-    var limitAtas : Double = 0.0
-    var limitBawah : Double = 0.0
+class WatchlistDataModel: Encodable, Decodable {
+    var name: String = ""
+    var price: Double = 0.0
+    var limitAtas: Double = 0.0
+    var limitBawah: Double = 0.0
 }

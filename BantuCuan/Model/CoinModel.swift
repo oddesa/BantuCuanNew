@@ -7,7 +7,6 @@
 //
 
 struct CoinModel {
-    let lastPriceFromModel : Double
-    let currency : String
+    let lastPriceFromModel: Double
+    let currency: String
 }
-

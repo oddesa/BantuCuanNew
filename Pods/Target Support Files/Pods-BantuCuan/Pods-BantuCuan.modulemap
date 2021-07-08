@@ -1,0 +1,6 @@
+framework module Pods_BantuCuan {
+  umbrella header "Pods-BantuCuan-umbrella.h"
+
+  export *
+  module * { export * }
+}
